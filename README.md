@@ -1,4 +1,4 @@
-WEBSITE LINK: countdowntimerjas.netlify.app
+ WEBSITE LINK : countdowntimerjas.netlify.app
 # Countdown Timer
 
 This is a simple countdown timer web application developed using HTML, CSS, and JavaScript. The application allows users to start, stop, and reset a timer, displaying time in minutes and seconds.
